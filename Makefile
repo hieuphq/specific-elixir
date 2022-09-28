@@ -1,0 +1,1 @@
+.PHONY: dev run test quanque
